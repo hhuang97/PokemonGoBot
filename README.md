@@ -6,7 +6,13 @@ as a result of using this software.
 
 ## Steps:
 
-### Simple steps coming soon!
+### Simple 
+
+1. Download the pre-compiled latest release here: https://github.com/hhuang97/PokemonGoBot/releases
+2. Extract content of the zip file
+3. Open PokemonGo.RocketAPI.Window.exe
+4. Enter your location and Google/PTC login credentials
+5. Enjoy!!
 
 ### Advanced
 
@@ -16,23 +22,24 @@ as a result of using this software.
 3. Open "PoGoBoT.sln" as a Visual Studio solution file
 4. On the Solution Explorer Menu, right click "Pokemon.Go.RocketAPI.Windows" and select "Set as Startup Project"
 5. Press F5
-6. Enter your credentials, select your starting location from the map and start farming
+6. Enter your credentials and select your starting location from the map
+7. Enjoy!!
 
 
 ## Features
 
 - PTC / Google Login
 - Get Map Objects and Inventory
-- Search for Gyms / Pokéstops / Spawns
-- Farm Pokéstops
-- Farm all Pokémon in the neighbourhood
-- Evolve Pokémon
-- Transfer Pokémon
+- Search for Gyms / Pokestops / Spawns
+- Farm Pokestops
+- Farm all Pokemon in the neighbourhood
+- Evolve Pokemon
+- Transfer Pokemon
 - Auto-recycle uneeded items
-- View all Pokémon CP/IV %
-- Transfer/Powerup/Evolve Pokémon
+- View all Pokemon CP/IV %
+- Transfer/Powerup/Evolve Pokemon
 - Show level and needed XP for levelup
-- Show username, level, stardust, XP/hour, Pokémon/hour in UI title
+- Show username, level, stardust, XP/hour, Pokemon/hour in UI title
 - Automatic use of Razzberries
 - Records everything into Logs.txt
 
