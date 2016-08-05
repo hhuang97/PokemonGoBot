@@ -1,3 +1,6 @@
+# NOTE
+Due to a change in the Pokemon Go API (especially its additional levels of hashing), this bot will no longer work. A future release may fix the issue, Stay tuned!
+
 # Disclaimer
 
 This repo is intended only as a proof of concept. The owner is not responsible for any bans or damage that may be incurred
