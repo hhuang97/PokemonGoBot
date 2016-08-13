@@ -1,5 +1,5 @@
 # NOTE
-Due to a change in the Pokemon Go API (especially its additional levels of hashing), this bot will no longer work. A future release is currently under way; this new release may no longer have a GUI.
+Due to a change in the Pokemon Go API (especially its additional levels of hashing), this bot will no longer work. A working version will not be released due to Niantic filing legal claims against other bot devs.
 
 # Disclaimer
 
